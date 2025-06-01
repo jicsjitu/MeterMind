@@ -141,7 +141,7 @@ Hi, I'm **Jitu Kumar**, an aspiring Data Analyst with a passion for solving real
 
 * 🔭 Skilled in SQL, Power BI, Python
 * 📊 Passionate about creating meaningful dashboards
-* 🌐 [LinkedIn](https://www.linkedin.com/in/jicsjitu) | [Medium]([https://your-portfolio.com](https://medium.com/@jicsjitu))
+* 🌐 [LinkedIn](https://www.linkedin.com/in/jicsjitu) | [Medium](https://medium.com/@jicsjitu))
 
 ---
 
